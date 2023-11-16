@@ -1,3 +1,5 @@
 File B
 
 Lets make a change
+
+Making change for squash merge
