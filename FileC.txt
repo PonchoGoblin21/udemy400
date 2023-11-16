@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-This file C - In featureA
-
-Adding to fileb
-=======
-Making a change
->>>>>>> FeatureA
+This is fileC
